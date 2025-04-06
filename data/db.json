@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_nit",
+      "password": "john@11",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "d453",
+      "username": "sam_hyd",
+      "password": "sam@11",
+      "email": "samson@outlook.com"
+    },
+    {
+      "id": "abae",
+      "username": "ajay",
+      "password": "12345678",
+      "email": "jajay1742@gmail.com"
+    },
+    {
+      "id": "c72b",
+      "username": "ajayjadhav",
+      "password": "123456",
+      "email": "salman@gmail.com"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "title": "Meeting with client",
+      "description": "attend meeting with client @ 5:00 PM",
+      "date": "2025-04-10",
+      "username": "john_nit"
+    },
+    {
+      "id": "2",
+      "title": "Birthday Party",
+      "description": "Collect gift for party",
+      "date": "2025-04-03",
+      "username": "sam_hyd"
+    },
+    {
+      "id": "4dfd",
+      "title": "Project KT",
+      "description": "Prepare project documents",
+      "date": "2025-04-15",
+      "username": "sam_hyd"
+    },
+    {
+      "id": "d93a",
+      "title": "salman",
+      "description": "salman",
+      "date": "2025-04-08",
+      "username": "ajay"
+    }
+  ]
+}
